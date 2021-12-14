@@ -1,4 +1,4 @@
-Hello, currently learning HTML, CSS, JS, React, Electron and SCSS. You will find my projects(which are open-source) on my profile.
+Hello, currently learning HTML, CSS, JS, React, Electron and SCSS. You will find my projects(which are open-source) on my profile. I'm willing to learn other libraries like Next.js or Svelte in the future.
 
 ✔ You will see some interesting stuff in my profile.
 
