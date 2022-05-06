@@ -1,4 +1,6 @@
-Hello, currently learning HTML, CSS, JS, React, Electron and SCSS. You will find my projects(which are open-source) on my profile. I'm willing to learn other libraries like Next.js or Svelte in the future.
+Hello, currently learning HTML, CSS, JS, React, Electron, SCSS, NodeJS, ExpressJS, EJS, and Svelte. You will find my projects(which are open-source) on my profile. I'm willing to learn other libraries like Next.js or Vite in the future.
+
+I am currently 13 years old in JHS.
 
 ✔ You will see some interesting stuff in my profile.
 
